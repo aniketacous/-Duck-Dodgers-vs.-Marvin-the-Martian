@@ -1,0 +1,3 @@
+/Users/aniketkumarsingh/Docs/Project.3Duck/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/aniketkumarsingh/Docs/Project.3Duck/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aniketkumarsingh/Docs/Project.3Duck/cmake-build-debug/CMakeFiles/Project_3Duck.dir

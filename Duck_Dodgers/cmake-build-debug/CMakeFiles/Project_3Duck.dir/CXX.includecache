@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aniketkumarsingh/Docs/Project.3Duck/linearList.h
+
+/Users/aniketkumarsingh/Docs/Project.3Duck/main.cpp
+iostream
+-
+string
+-
+queue.h
+/Users/aniketkumarsingh/Docs/Project.3Duck/queue.h
+linearList.h
+/Users/aniketkumarsingh/Docs/Project.3Duck/linearList.h
+
+/Users/aniketkumarsingh/Docs/Project.3Duck/queue.h
+
